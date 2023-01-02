@@ -14,7 +14,7 @@ import javax.ws.rs.core.Application;
         info = @Info(title = "Number API",
                 description = "Generates ISBN book numbers",
                 version = "1.0",
-                contact = @Contact(name = "@hoangtu291", url = "hoangtutdst@gmail.com")),
+                contact = @Contact(name = "@hoangtu291", url = "https://github.com/hoangtu291")),
         externalDocs = @ExternalDocumentation(url = "https://github.com/agoncal/agoncal-course-quarkus-microservices", description = "All the Microservice course code"),
         tags = {
                 @Tag(name = "api", description = "Public API that can be used by anybody"),
