@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rest-number-dev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rest-number/target/rest-number-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
